@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75117529474",
+    "project_id": "kiemtracuoiki-rn",
+    "storage_bucket": "kiemtracuoiki-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75117529474:android:113db6f6d8e1360f9ba79b",
+        "android_client_info": {
+          "package_name": "com.anonymous.KiemTraCuoiKi_RN"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgSy74cvnAx13AQzQ97cDl765s2gN68I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
